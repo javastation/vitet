@@ -1,0 +1,6 @@
+dist
+node_modules
+.prettierignore
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
